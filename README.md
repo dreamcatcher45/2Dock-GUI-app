@@ -5,7 +5,7 @@
 
 # Download🕊️
 
-- Click here to [Download](https://github.com/dreamcatcher45/)
+- Click here to [Download](https://github.com/dreamcatcher45/2Dock-GUI-app/raw/main/2Dock-app.zip)
 - Download the zip file
 - Extract the zip file
 - Right click on app.py
